@@ -28,6 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 </div>
 
-###
+### 🎧 Recently Played
 
-[![🎵Recently Played On Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=85caff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=85caff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&redirect=true)
+
+### 🎧 My Top Tracks
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/top?uid=31jdltkjnbhtr7jmkgyprwlctxgq&count=5&theme=default&time_range=short_term)](https://open.spotify.com/user/31jdltkjnbhtr7jmkgyprwlctxgq)
+
