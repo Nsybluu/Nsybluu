@@ -1,4 +1,5 @@
 <h1 align="center">Nsybluu 🚀</h1>
+<p align="center">Frontend Developer | หยังกะในหนัง</p>
 
 <hr/>
 
