@@ -44,22 +44,7 @@
 <div align="center">
   
 <!-- Spotify -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&cover_image=true&theme=dark)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true)
 
-<!-- Apple Music (optional, harder setup) -->
-<!-- ![Apple Music](https://apple-music-profile-readme.vercel.app/api/now-playing?uid=YOUR_APPLE_ID) -->
-
-</div>
-
-###
-
-<h3 align="left">🌐 Connect with me</h3>
-
-<p align="left">
-  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-</p>
+## 🎶 My Favorite Tracks
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/top-tracks?uid=31jdltkjnbhtr7jmkgyprwlctxgq&theme=dark)](https://open.spotify.com/user/YOUR_SPOTIFY_UID)
