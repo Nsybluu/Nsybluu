@@ -7,8 +7,9 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact&theme=algolia" />
 <div/>
 
-![](https://github-profile-trophy.vercel.app/?username=Nsy&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=Nsy&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nsybluu&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
 <hr/>
 
