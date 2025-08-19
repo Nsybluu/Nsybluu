@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/jlcFUFMn6X.gif)"  />
+  <img height="150" src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/jlcFUFMn6X.gif)](https://media1.tenor.com/m/Ablnl9_nbjEAAAAd/karina-karina-stop.gif)"  />
 </div>
 
 <h1 align="center">Nsybluu 🚀</h1>
