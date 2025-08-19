@@ -2,7 +2,7 @@
 
 <hr/>
 
-![Box]<div align="center">
+<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&rank_icon=github&theme=algolia" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact&theme=algolia" />
 <div/>
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 </div>
 
-### 🎧 Recently Played
+<h3 align="center">🎧 Recently Played</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&redirect=true)
 
