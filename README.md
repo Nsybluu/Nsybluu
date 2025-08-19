@@ -21,15 +21,31 @@
 
 <h3 align="center">My Skill</h3>
 
-### Languages
+<h3 align="left">Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
+  </a>
+</p>
 
-### Frameworks & Libraries
+<h3 align="left">Frameworks & Libraries</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,discordjs,selenium" />
+  </a>
+</p>
 
 
 
-### Databases & API Tools
+<h3 align="left">Databases & API Tools</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,postman" />
+  </a>
+</p>
 
 
 
