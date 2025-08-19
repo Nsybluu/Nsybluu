@@ -36,7 +36,7 @@
 
 <hr/>
 
-<h3 align="center">My Skill</h3>
+<h3 align="center"> 🦾 My Skill</h3>
 
 <h3 align="left">Languages</h3>
 
