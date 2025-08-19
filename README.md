@@ -44,7 +44,7 @@
 <div align="center">
   
 <!-- Spotify -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&cover_image=true&theme=dark)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true)
 
 ## 🎶 My Favorite Tracks
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/top-tracks?uid=31jdltkjnbhtr7jmkgyprwlctxgq&theme=dark)](https://open.spotify.com/user/YOUR_SPOTIFY_UID)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/top-tracks?uid=31jdltkjnbhtr7jmkgyprwlctxgq&theme=compact)](https://open.spotify.com/user/YOUR_SPOTIFY_UID)
