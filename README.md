@@ -30,21 +30,4 @@
 
 ###
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
-
-###
-
-<h3 align="left">🎶 Now Playing</h3>
-
-<div align="center">
-  
-<!-- Spotify -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true)
-
-## 🎶 My Favorite Tracks
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/top-tracks?uid=31jdltkjnbhtr7jmkgyprwlctxgq&theme=compact)](https://open.spotify.com/user/YOUR_SPOTIFY_UID)
+[![🎵Recently Played On Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=85caff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&redirect=true)
