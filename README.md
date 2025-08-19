@@ -4,17 +4,17 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&rank_icon=github&theme=algolia" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact&theme=algolia" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&rank_icon=github&theme=algolia" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact&theme=algolia" />
 <div/>
 
 ###
 <h3 align="left">💻 About Me</h3>
 
 <p align="left">
-👨‍💻 Currently practicing JavaScript & React to gain mastery. 
-🌱 On my journey to becoming a Frontend Developer, with plans to expand into Backend development.  
-🎯 My ultimate goal is to grow into a versatile Full-Stack Developer.
+👨‍💻 Currently practicing JavaScript & React to gain mastery. <br>
+🌱 On my journey to becoming a Frontend Developer, with plans to expand into Backend development. <br>
+🎯 My ultimate goal is to grow into a versatile Full-Stack Developer. <br>
 </p>
 
 ###
