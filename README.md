@@ -3,8 +3,8 @@
 <hr/>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&rank_icon=github&theme=algolia" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact&theme=algolia" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&rank_icon=github&theme=algolia" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact&theme=algolia" />
 <div/>
 
 <p align="center">
