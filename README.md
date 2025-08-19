@@ -11,9 +11,6 @@
 ### 🔥 Streak
 <img height="165" src="https://streak-stats.demolab.com?user=Nsybluu" />
 
-### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Nsybluu&theme=onestar&no-frame=true&row=1&column=6" />
-
 ### 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nsybluu&theme=github-compact" />
 
