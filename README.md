@@ -32,6 +32,3 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&redirect=true)
 
-### 🎧 My Top Tracks
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&&count=5&time_range=medium_term&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&redirect=true)
-
