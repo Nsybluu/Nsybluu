@@ -12,7 +12,7 @@
 <img height="165" src="https://streak-stats.demolab.com?user=Nsybluu" />
 
 ### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nsybluu&theme=github-compact" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nsybluu&theme=dark" />
 
 ###
 <h3 align="left">💻 About Me</h3>
