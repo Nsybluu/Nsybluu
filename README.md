@@ -2,34 +2,47 @@
 
 <hr/>
 
-<!-- ===== GitHub Overview (one big framed box) ===== -->
-<table align="center" border="1" width="100%">
-  <tr>
-    <td>
-      <!-- Row: Cards (Stats + Top Languages) -->
-      <table align="center">
-        <tr>
-          <td align="center">
-            <img height="180"
-                 src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&rank_icon=github&theme=algolia" />
-          </td>
-          <td width="24"></td><!-- spacer -->
-          <td align="center">
-            <img height="180"
-                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact&theme=algolia" />
-          </td>
-        </tr>
-      </table>
-      <br><!-- vertical spacer -->
-      <!-- Row: Trophies (with borders + gaps) -->
-      <p align="center">
-        <img
-          src="https://github-profile-trophy.vercel.app/?username=Nsybluu&theme=algolia&no-frame=false&margin-w=18&margin-h=16&row=1&column=6"
-          alt="GitHub Trophies" />
-      </p>
-    </td>
-  </tr>
+<!-- ===== One big framed box ===== -->
+<table align="center" border="2" width="100%">
+  <tr><td>
+    <!-- padding บน -->
+    <table width="100%" border="0"><tr><td height="16"></td></tr></table>
+    <!-- เนื้อหาทั้งหมด + padding ซ้าย/ขวา -->
+    <table width="100%" border="0">
+      <tr>
+        <td width="16"></td>
+        <td>
+          <!-- Row 1: Stats + Top Languages (no inner border) -->
+          <table width="100%" border="0">
+            <tr>
+              <td align="center">
+                <img height="180"
+                  src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&rank_icon=github&theme=algolia&hide_border=true&bg_color=00000000" />
+              </td>
+              <td width="24"></td>
+              <td align="center">
+                <img height="180"
+                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact&theme=algolia&hide_border=true&bg_color=00000000" />
+              </td>
+            </tr>
+          </table>
+          <!-- เว้นระยะระหว่างแถว -->
+          <table width="100%" border="0"><tr><td height="20"></td></tr></table>
+          <!-- Row 2: Trophies (ยังคงมีกรอบของแต่ละถ้วยตามต้องการ) -->
+          <p align="center">
+            <img
+              src="https://github-profile-trophy.vercel.app/?username=Nsybluu&theme=algolia&no-frame=false&margin-w=18&margin-h=16&row=1&column=6"
+              alt="GitHub Trophies" />
+          </p>
+        </td>
+        <td width="16"></td>
+      </tr>
+    </table>
+    <!-- padding ล่าง -->
+    <table width="100%" border="0"><tr><td height="16"></td></tr></table>
+  </td></tr>
 </table>
+
 
 
 <hr/>
