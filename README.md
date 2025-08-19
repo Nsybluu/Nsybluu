@@ -2,48 +2,35 @@
 
 <hr/>
 
-
-<table align="center" border="2" width="100%">
+<!-- ===== GitHub Overview (one big framed box) ===== -->
+<table align="center" border="1" width="100%">
   <tr>
     <td>
-      <table width="100%">
-        <tr><td height="16"></td></tr>
-      </table>
-      <table width="100%">
+      <!-- Row: Cards (Stats + Top Languages) -->
+      <table align="center">
         <tr>
-          <td width="16"></td>   
-          <td>
-            <table width="100%">
-              <tr>
-                <td align="center">
-                  <img height="180"
-                       src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&rank_icon=github&theme=algolia" />
-                </td>
-                <td width="24"></td>
-                <td align="center">
-                  <img height="180"
-                       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact&theme=algolia" />
-                </td>
-              </tr>
-            </table>
-            <table width="100%">
-              <tr><td height="20"></td></tr>
-            </table>
-            <p align="center">
-              <img
-                src="https://github-profile-trophy.vercel.app/?username=Nsybluu&theme=algolia&no-frame=false&margin-w=18&margin-h=16&row=1&column=6"
-                alt="GitHub Trophies" />
-            </p>
+          <td align="center">
+            <img height="180"
+                 src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&rank_icon=github&theme=algolia" />
           </td>
-          <td width="16"></td>  
+          <td width="24"></td><!-- spacer -->
+          <td align="center">
+            <img height="180"
+                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact&theme=algolia" />
+          </td>
         </tr>
       </table>
-      <table width="100%">
-        <tr><td height="16"></td></tr>
-      </table>
+      <br><!-- vertical spacer -->
+      <!-- Row: Trophies (with borders + gaps) -->
+      <p align="center">
+        <img
+          src="https://github-profile-trophy.vercel.app/?username=Nsybluu&theme=algolia&no-frame=false&margin-w=18&margin-h=16&row=1&column=6"
+          alt="GitHub Trophies" />
+      </p>
     </td>
   </tr>
 </table>
+
 
 <hr/>
 
