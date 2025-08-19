@@ -2,28 +2,26 @@
 
 <hr/>
 
-<table align="center">
+<table align="center" border="1">
 <tr>
 <td>
 
 <div align="center">
+
+  <!-- GitHub Stats + Languages -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&rank_icon=github&theme=algolia" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact&theme=algolia" />
+
+  <br><br>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Nsybluu&theme=algolia&no-frame=true&row=1&column=6" />
+
 </div>
 
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=Nsybluu&theme=algolia&no-frame=false&row=1&column=6" />
-      </td>
-    </tr>
-  </table>
-</p>
 
 <hr/>
 
