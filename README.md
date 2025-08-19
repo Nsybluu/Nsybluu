@@ -14,8 +14,8 @@
 
   <br><br>
 
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Nsybluu&theme=algolia&no-frame=true&row=1&column=6" />
+  <!-- Trophies with border + gap -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Nsybluu&theme=algolia&no-frame=false&margin-w=15&margin-h=15&row=1&column=6" />
 
 </div>
 
