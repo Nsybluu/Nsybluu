@@ -4,15 +4,15 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&rank_icon=github&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&rank_icon=github&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact&theme=radical" />
 </p>
 
 ### 🔥 Streak
-<img height="165" src="https://streak-stats.demolab.com?user=Nsybluu" />
+<img height="165" src="https://streak-stats.demolab.com?user=Nsybluu&theme=radical" />
 
 ### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nsybluu&theme=dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nsybluu&theme=radical" />
 
 ###
 <h3 align="left">💻 About Me</h3>
