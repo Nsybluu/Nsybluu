@@ -26,7 +26,7 @@
 <div align="center">
 
   <!-- GitHub Stats + Languages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&rank_icon=github&theme=algolia" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&theme=algolia" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact&theme=algolia" />
 
   <br><br>
