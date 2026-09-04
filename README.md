@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Nsybluu 🚀</h1>
-<p align="center">Frontend Developer | Feels like a movie</p>
+<p align="center">Frontend Developer</p>
 
 <div align="center">
   <a href="https://www.youtube.com/@Nsybluu" target="_blank">
