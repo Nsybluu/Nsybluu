@@ -19,29 +19,6 @@
 
 <hr/>
 
-<table align="center" border="1">
-<tr>
-<td>
-
-<div align="center">
-
-  <!-- GitHub Stats + Languages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nsybluu&show_icons=true&theme=algolia" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsybluu&layout=compact&theme=algolia" />
-
-  <br><br>
-
-  <!-- Trophies with border + gap -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Nsybluu&theme=algolia&no-frame=false&margin-w=15&margin-h=15&row=1&column=6" />
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<hr/>
-
 <h3 align="left">💻 About Me</h3>
 
 <p align="left">
