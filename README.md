@@ -5,22 +5,10 @@
 # Nsybluu 🚀
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Learning+Backend+Development;On+the+way+to+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Exploring+Backend+Development;On+the+way+to+Full-Stack+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
-
-<a href="https://www.youtube.com/@Nsybluu">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/nisssyy0">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/moss.nsyy">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Nsybluu&style=flat-square&color=58A6FF" alt="Profile Views" />
 
@@ -33,17 +21,19 @@
 ```javascript
 const nsybluu = {
   role: "Frontend Developer",
-  currentlyLearning: ["JavaScript", "React"],
-  exploring: ["Backend Development"],
+  currentlyFocusing: [
+    "Backend Fundamentals",
+    "Strengthening Frontend Foundations"
+  ],
   goal: "Full-Stack Developer",
   motto: "Keep learning, keep building 🚀"
 };
 ```
 
-- 💻 Currently improving my **JavaScript & React** skills
-- ⚛️ Interested in modern **Frontend Development**
-- 🌱 Expanding my knowledge into **Backend Development**
-- 🚀 Working toward becoming a **Full-Stack Developer**
+- 💻 Strengthening my **Frontend fundamentals** and development practices
+- ⚡ Building a solid foundation in **Backend Development**
+- 🗄️ Learning more about **APIs, databases, and server-side development**
+- 🚀 Working toward becoming a well-rounded **Full-Stack Developer**
 
 ---
 
