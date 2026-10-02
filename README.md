@@ -39,28 +39,36 @@ const nsybluu = {
 
 ## 🛠️ Tech Stack
 
-### 🧑‍💻 Languages
+### 🎨 Frontend
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
 </p>
 
-### ⚡ Frameworks & Libraries
-
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,discordjs,selenium&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### 🗄️ Databases & API Tools
+### ⚙️ Backend
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,postman&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,java,py,mysql,postgres&theme=dark" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,postman&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
