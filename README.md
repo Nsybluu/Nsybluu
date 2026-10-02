@@ -83,12 +83,15 @@ const nsybluu = {
 
 ---
 
-## 🎧 Spotify — Recently Played
+## 🎧 Spotify
 
 <div align="center">
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&bar_color=1DB954&bar_color_cover=true" alt="Spotify Now Playing" />
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jdltkjnbhtr7jmkgyprwlctxgq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true"
+    alt="Spotify Recently Played"
+  />
 </a>
 
 </div>
